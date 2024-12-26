@@ -8,7 +8,7 @@
 	"dependencies": {
 		"package-name": "@freecodecamp/example",
   		"express": "^1.1.0",
-		"@freecodecamp/example": "1.1.0"
+		"@freecodecamp/example": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
